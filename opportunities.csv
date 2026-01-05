@@ -1,0 +1,101 @@
+opportunity_id,opportunity_name,amount,stage,status,owner,created_date,close_date,last_stage
+OPP-001,Enterprise CRM Implementation,245000,Closed Won,Won,Sarah Johnson,2025-08-22,2025-11-15,Negotiation
+OPP-002,Marketing Automation Platform,89000,Proposal,Open,Michael Chen,2025-07-01,2026-02-10,Proposal
+OPP-003,Cloud Infrastructure Upgrade,156000,Negotiation,Open,Jessica Martinez,2025-07-01,2026-01-25,Negotiation
+OPP-004,Data Analytics Suite,412000,Closed Won,Won,David Thompson,2025-07-14,2025-12-20,Discovery
+OPP-005,HR Management System,67000,Discovery,Open,Emily Rodriguez,2025-12-01,2026-03-15,Discovery
+OPP-006,Customer Support Platform,123000,Demo,Open,Robert Kim,2025-11-10,2026-02-28,Demo
+OPP-007,E-commerce Platform Migration,298000,Closed Lost,Lost,Sarah Johnson,2025-06-18,2025-10-30,Discovery
+OPP-008,Mobile App Development,145000,Proposal,Open,Michael Chen,2025-10-22,2026-02-05,Proposal
+OPP-009,Security Infrastructure Overhaul,387000,Negotiation,Open,Jessica Martinez,2025-07-01,2026-01-18,Negotiation
+OPP-010,Business Intelligence Tools,278000,Closed Won,Won,David Thompson,2025-08-15,2025-12-08,Proposal
+OPP-011,Collaboration Suite License,54000,Discovery,Open,Emily Rodriguez,2025-12-05,2026-03-20,Discovery
+OPP-012,API Integration Services,91000,Demo,Open,Robert Kim,2025-11-08,2026-02-15,Demo
+OPP-013,Legacy System Modernization,456000,Closed Won,Won,Sarah Johnson,2025-07-01,2025-11-28,Negotiation
+OPP-014,DevOps Automation Platform,203000,Proposal,Open,Michael Chen,2025-10-30,2026-02-22,Proposal
+OPP-015,Compliance Management System,134000,Closed Lost,Lost,Jessica Martinez,2025-07-20,2025-11-05,Proposal
+OPP-016,Supply Chain Optimization,267000,Negotiation,Open,David Thompson,2025-07-01,2026-01-30,Negotiation
+OPP-017,Customer Portal Development,78000,Discovery,Open,Emily Rodriguez,2025-11-28,2026-03-10,Discovery
+OPP-018,Video Conferencing Solution,43000,Demo,Open,Robert Kim,2025-11-15,2026-02-18,Demo
+OPP-019,ERP System Implementation,489000,Closed Won,Won,Sarah Johnson,2025-06-25,2025-12-15,Negotiation
+OPP-020,Digital Marketing Platform,112000,Proposal,Open,Michael Chen,2025-10-20,2026-02-08,Proposal
+OPP-021,Inventory Management System,156000,Closed Lost,Lost,Jessica Martinez,2025-06-30,2025-10-15,Discovery
+OPP-022,Cybersecurity Assessment,87000,Negotiation,Open,David Thompson,2025-07-01,2026-01-22,Negotiation
+OPP-023,Training Management Platform,62000,Discovery,Open,Emily Rodriguez,2025-12-08,2026-03-25,Discovery
+OPP-024,Document Management System,95000,Demo,Open,Robert Kim,2025-11-12,2026-02-12,Demo
+OPP-025,Cloud Storage Expansion,178000,Closed Won,Won,Sarah Johnson,2025-08-10,2025-12-02,Proposal
+OPP-026,CRM Customization Services,121000,Proposal,Open,Michael Chen,2025-11-01,2026-02-20,Proposal
+OPP-027,Network Infrastructure Upgrade,234000,Negotiation,Open,Jessica Martinez,2025-09-22,2026-01-28,Negotiation
+OPP-028,AI Chatbot Implementation,98000,Discovery,Open,David Thompson,2025-11-25,2026-03-05,Discovery
+OPP-029,Performance Monitoring Tools,76000,Demo,Open,Emily Rodriguez,2025-11-18,2026-02-25,Demo
+OPP-030,Payment Gateway Integration,145000,Closed Won,Won,Robert Kim,2025-08-05,2025-11-22,Discovery
+OPP-031,Content Management System,187000,Closed Lost,Lost,Sarah Johnson,2025-07-28,2025-11-10,Discovery
+OPP-032,Database Migration Services,223000,Proposal,Open,Michael Chen,2025-10-25,2026-02-14,Proposal
+OPP-033,Workflow Automation Platform,167000,Negotiation,Open,Jessica Martinez,2025-09-15,2026-01-20,Negotiation
+OPP-034,Multi-Cloud Strategy,412000,Closed Won,Won,David Thompson,2025-07-08,2025-12-18,Proposal
+OPP-035,Employee Onboarding System,58000,Discovery,Open,Emily Rodriguez,2025-12-03,2026-03-18,Discovery
+OPP-036,Backup and Disaster Recovery,134000,Demo,Open,Robert Kim,2025-11-09,2026-02-16,Demo
+OPP-037,Financial Reporting Platform,298000,Closed Won,Won,Sarah Johnson,2025-08-12,2025-11-25,Discovery
+OPP-038,Social Media Management Tools,72000,Proposal,Open,Michael Chen,2025-10-28,2026-02-11,Proposal
+OPP-039,Quality Assurance Automation,189000,Closed Lost,Lost,Jessica Martinez,2025-07-05,2025-10-25,Discovery
+OPP-040,IoT Platform Development,345000,Negotiation,Open,David Thompson,2025-09-20,2026-01-26,Negotiation
+OPP-041,Knowledge Base System,65000,Discovery,Open,Emily Rodriguez,2025-12-06,2026-03-22,Discovery
+OPP-042,Email Marketing Platform,81000,Demo,Open,Robert Kim,2025-11-14,2026-02-19,Demo
+OPP-043,Predictive Analytics Solution,276000,Closed Won,Won,Sarah Johnson,2025-08-18,2025-12-10,Negotiation
+OPP-044,Project Management Suite,143000,Proposal,Open,Michael Chen,2025-11-05,2026-02-24,Proposal
+OPP-045,Identity Management System,198000,Negotiation,Open,Jessica Martinez,2025-09-25,2026-01-24,Negotiation
+OPP-046,Customer Feedback Platform,54000,Discovery,Open,David Thompson,2025-11-30,2026-03-12,Discovery
+OPP-047,Salesforce Integration,92000,Demo,Open,Emily Rodriguez,2025-11-16,2026-02-21,Demo
+OPP-048,Warehouse Management System,234000,Closed Won,Won,Robert Kim,2025-08-08,2025-12-05,Proposal
+OPP-049,Virtual Desktop Infrastructure,456000,Closed Lost,Lost,Sarah Johnson,2025-07-22,2025-11-18,Discovery
+OPP-050,Contract Management Platform,167000,Proposal,Open,Michael Chen,2025-10-31,2026-02-17,Proposal
+OPP-051,Field Service Management,211000,Negotiation,Open,Jessica Martinez,2025-09-12,2026-01-29,Negotiation
+OPP-052,Learning Management System,89000,Closed Won,Won,David Thompson,2025-08-20,2025-11-30,Negotiation
+OPP-053,Asset Tracking Solution,71000,Discovery,Open,Emily Rodriguez,2025-11-27,2026-03-08,Discovery
+OPP-054,Help Desk Software,58000,Demo,Open,Robert Kim,2025-11-11,2026-02-13,Demo
+OPP-055,Revenue Management Platform,387000,Closed Won,Won,Sarah Johnson,2025-07-16,2025-12-22,Negotiation
+OPP-056,Procurement Automation,145000,Proposal,Open,Michael Chen,2025-10-24,2026-02-09,Proposal
+OPP-057,Time Tracking System,63000,Closed Lost,Lost,Jessica Martinez,2025-07-10,2025-10-20,Discovery
+OPP-058,Data Warehouse Solution,312000,Negotiation,Open,David Thompson,2025-09-08,2026-01-27,Negotiation
+OPP-059,Vendor Management Portal,94000,Discovery,Open,Emily Rodriguez,2025-12-02,2026-03-16,Discovery
+OPP-060,Scheduling Optimization,77000,Demo,Open,Robert Kim,2025-11-19,2026-02-26,Demo
+OPP-061,Product Lifecycle Management,289000,Closed Won,Won,Sarah Johnson,2025-08-14,2025-12-12,Negotiation
+OPP-062,Expense Management System,108000,Proposal,Open,Michael Chen,2025-10-19,2026-02-07,Proposal
+OPP-063,Fleet Management Platform,176000,Negotiation,Open,Jessica Martinez,2025-09-27,2026-01-23,Negotiation
+OPP-064,Survey and Feedback Tools,49000,Discovery,Open,David Thompson,2025-12-09,2026-03-24,Discovery
+OPP-065,Augmented Reality Solution,234000,Demo,Open,Emily Rodriguez,2025-11-17,2026-02-23,Demo
+OPP-066,Master Data Management,345000,Closed Won,Won,Robert Kim,2025-08-03,2025-11-20,Negotiation
+OPP-067,Performance Testing Platform,121000,Closed Lost,Lost,Sarah Johnson,2025-07-25,2025-11-08,Discovery
+OPP-068,Loyalty Program System,156000,Proposal,Open,Michael Chen,2025-10-26,2026-02-12,Proposal
+OPP-069,Risk Management Software,198000,Closed Lost,Lost,Jessica Martinez,2025-07-12,2025-10-28,Discovery
+OPP-070,Appointment Scheduling,67000,Negotiation,Open,David Thompson,2025-09-24,2026-01-21,Negotiation
+OPP-071,Ticketing System Upgrade,85000,Discovery,Open,Emily Rodriguez,2025-12-01,2026-03-14,Discovery
+OPP-072,Geolocation Services,112000,Demo,Open,Robert Kim,2025-11-20,2026-02-27,Demo
+OPP-073,Partner Portal Development,267000,Closed Won,Won,Sarah Johnson,2025-08-16,2025-12-17,Negotiation
+OPP-074,Budgeting and Forecasting,187000,Proposal,Open,Michael Chen,2025-10-18,2026-02-06,Proposal
+OPP-075,Campaign Management Platform,134000,Negotiation,Open,Jessica Martinez,2025-09-19,2026-01-31,Negotiation
+OPP-076,Real-time Monitoring System,223000,Closed Won,Won,David Thompson,2025-08-11,2025-12-01,Proposal
+OPP-077,Invoice Automation,78000,Discovery,Open,Emily Rodriguez,2025-11-29,2026-03-11,Discovery
+OPP-078,Lead Scoring Platform,91000,Demo,Open,Robert Kim,2025-11-13,2026-02-14,Demo
+OPP-079,Customer Success Platform,198000,Closed Won,Won,Sarah Johnson,2025-08-19,2025-11-27,Demo
+OPP-080,Energy Management System,156000,Proposal,Open,Michael Chen,2025-11-02,2026-02-19,Proposal
+OPP-081,Fraud Detection Solution,289000,Closed Lost,Lost,Jessica Martinez,2025-07-29,2025-11-12,Discovery
+OPP-082,Workflow Orchestration,167000,Negotiation,Open,David Thompson,2025-09-16,2026-01-25,Negotiation
+OPP-083,Appointment Reminder System,54000,Discovery,Open,Emily Rodriguez,2025-12-04,2026-03-19,Discovery
+OPP-084,Load Balancing Solution,123000,Demo,Open,Robert Kim,2025-11-15,2026-02-20,Demo
+OPP-085,Quote Management System,178000,Closed Won,Won,Sarah Johnson,2025-08-13,2025-12-09,Negotiation
+OPP-086,Subscription Billing Platform,145000,Proposal,Open,Michael Chen,2025-10-29,2026-02-15,Proposal
+OPP-087,Visitor Management System,62000,Closed Lost,Lost,Jessica Martinez,2025-07-08,2025-10-18,Demo
+OPP-088,Content Delivery Network,234000,Negotiation,Open,David Thompson,2025-09-11,2026-01-19,Negotiation
+OPP-089,Onboarding Automation,71000,Discovery,Open,Emily Rodriguez,2025-11-26,2026-03-09,Discovery
+OPP-090,Reputation Management,88000,Demo,Open,Robert Kim,2025-11-10,2026-02-11,Demo
+OPP-091,Sales Enablement Platform,211000,Closed Won,Won,Sarah Johnson,2025-08-17,2025-12-14,Negotiation
+OPP-092,Compliance Tracking System,134000,Proposal,Open,Michael Chen,2025-11-03,2026-02-21,Proposal
+OPP-093,API Management Gateway,267000,Closed Lost,Lost,Jessica Martinez,2025-07-31,2025-11-14,Proposal
+OPP-094,Event Management Platform,98000,Negotiation,Open,David Thompson,2025-09-21,2026-01-28,Negotiation
+OPP-095,Chatbot Analytics,76000,Discovery,Open,Emily Rodriguez,2025-12-07,2026-03-13,Discovery
+OPP-096,Version Control Migration,112000,Demo,Open,Robert Kim,2025-11-21,2026-02-24,Demo
+OPP-097,Commission Tracking System,156000,Closed Won,Won,Sarah Johnson,2025-08-07,2025-11-24,Proposal
+OPP-098,Middleware Integration,189000,Proposal,Open,Michael Chen,2025-11-04,2026-02-18,Proposal
+OPP-099,Competitive Intelligence,123000,Negotiation,Open,Jessica Martinez,2025-09-26,2026-01-22,Negotiation
+OPP-100,Testing Automation Suite,203000,Closed Lost,Lost,David Thompson,2025-07-19,2025-11-16,Negotiation
