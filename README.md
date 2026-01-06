@@ -72,7 +72,7 @@ pip3 install streamlit pandas plotly
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/sales-forecast-analytics.git
+git clone https://github.com/stenjac/sales-forecast-analytics.git
 cd sales-forecast-analytics
 
 # Verify sample data exists
@@ -370,4 +370,4 @@ Potential future enhancements:
 **Version:** 2.0
 **Last Updated:** January 2026
 **Author:** Your Name
-**Repository:** https://github.com/YOUR_USERNAME/sales-forecast-analytics
+**Repository:** https://github.com/stenjac/sales-forecast-analytics
